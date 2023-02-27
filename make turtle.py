@@ -1,7 +1,7 @@
 import turtle
 
 turtle.bgcolor("black")
-
+turtle.delay(0)
 colors = ["red", "blue", "purple", "green", "yellow", "orange"]
 
 p = turtle.Pen()
